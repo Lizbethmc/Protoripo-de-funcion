@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    
+  }
+
+
+h1{
+font-size: 40px;
+color: rgb(62, 182, 122);
+text-align: center;
+margin-top: 20px;
+margin-bottom: 30px;
+}
+
+h2{
+font-size: 30px;
+color: rgb(59, 59, 59);
+text-align: center;
+padding-bottom: 30px;
+
+}
+
+#txt{
+  font-size: 20px;
+  color: rgb(59, 59, 59);
+  text-align: center;
+}
+
